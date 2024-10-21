@@ -1,0 +1,5 @@
+<div>
+    <ul *ngFor="let zivotinjka of zivotinjke$ | async">
+        <app-info-card [zivotinjka] = "zivotinjka" (klik)="istampaj($event)"> </app-info-card>
+    </ul>
+</div>

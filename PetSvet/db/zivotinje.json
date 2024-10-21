@@ -1,0 +1,28 @@
+{
+    "zivotinje": [
+        {
+            "id": 1,
+            "ime": "Lea",
+            "vrsta": "Pas",
+            "rasaID": "Maltezer"
+        },
+        {
+            "id": 2,
+            "ime": "Rea",
+            "vrsta": "Macka",
+            "rasaID": "narandzasta"
+        },
+        {
+            "id": 3,
+            "ime": "Ikea",
+            "vrsta": "ptica",
+            "rasaID": "vrabac"
+        },
+        {
+            "id": 4,
+            "ime": "Caslav",
+            "vrsta": "Pas",
+            "rasaID": "shitzu"
+        }
+    ]
+}
